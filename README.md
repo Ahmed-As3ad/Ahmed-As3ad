@@ -69,5 +69,3 @@ const ahmed = {
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-As3ad&layout=compact&theme=radical)
 
 ---
-
-**ملحوظة:** الستاتس بتتحدث أوتوماتيك بناءً على نشاطي على GitHub.
